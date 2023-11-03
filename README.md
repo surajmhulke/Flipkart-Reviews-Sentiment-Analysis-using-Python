@@ -17,7 +17,7 @@
 ## Introduction
 This article is based on the analysis of the reviews and ratings given by users on Flipkart. By analyzing this data, we can gain insights into product quality and user experiences. We will use machine learning to analyze the data and make it ready for sentiment prediction, specifically, to predict whether a review is positive or negative.
 
-Before we begin, you can download the dataset for this project by clicking [this link](#) and placing it in the same directory as this notebook.
+Before we begin, you can download the dataset for this project in files om my github and placing it in the same directory as this notebook.
 
 ## Importing Libraries
 We'll be using several Python libraries for this project:
